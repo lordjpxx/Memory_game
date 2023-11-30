@@ -4,4 +4,4 @@ function backpage() {
 
 const backButton = document.querySelector(".backButton");
 
-backButton.addEventListener("click", backpage)
+backButton.addEventListener("click", backpage);
