@@ -31,8 +31,10 @@ body {
 
 .container {
   height: 100vh;
+  /* overflow-y: hidden; */
+  /* here I recomend to use flex box */
   background: #000c;
-  padding: 0 3.2rem;
+  padding: 2rem 3.2rem;
 }
 
 ul {
